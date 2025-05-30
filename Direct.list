@@ -25,7 +25,7 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # 国内小众网站
-# DOMAIN-SUFFIX,xxx.com
+DOMAIN-SUFFIX,qianjiapp.com
 
 # 360
 DOMAIN-SUFFIX,360.com
