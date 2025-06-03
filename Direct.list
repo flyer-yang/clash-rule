@@ -2,6 +2,9 @@
 
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,yysky2020.xyz
+DOMAIN-KEYWORD,yysky
+
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -323,4 +326,3 @@ DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
-
