@@ -2,8 +2,8 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,yysky2020.xyz
-DOMAIN-KEYWORD,yysky
+#DOMAIN-SUFFIX,yysky2020.xyz
+#DOMAIN-KEYWORD,yysky
 
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
