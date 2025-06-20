@@ -2,7 +2,7 @@
 
 # MyList
 # 如果添加后，在局域网无法通过域名访问，配置了fake-ip-filter
-# DOMAIN-SUFFIX,yysky2020.xyz
+DOMAIN-SUFFIX,yysky2020.xyz
 # DOMAIN,yysky.myds.me
 
 # 域名后缀匹配
