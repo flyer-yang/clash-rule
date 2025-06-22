@@ -1,9 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
+# MyList 暂时不使用，尽量使用配置文件
 # 如果添加后，在局域网无法通过域名访问，配置了fake-ip-filter
-DOMAIN-SUFFIX,yysky2020.xyz
-DOMAIN,yysky.myds.me
+# DOMAIN-SUFFIX,1111.com
+# DOMAIN,www.1111.com
 
 # 国内小众网站
 DOMAIN-SUFFIX,qianjiapp.com
