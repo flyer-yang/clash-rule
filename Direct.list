@@ -6,9 +6,9 @@
 # DOMAIN,www.1111.com
 
 # 国内小众网站
-DOMAIN-SUFFIX,qianjiapp.com #钱迹
-DOMAIN-SUFFIX,eryinote.com #二一笔记
-DOMAIN-SUFFIX,21notion.com #二一笔记
+DOMAIN-SUFFIX,qianjiapp.com
+DOMAIN-SUFFIX,eryinote.com
+DOMAIN-SUFFIX,21notion.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
